@@ -28,8 +28,20 @@ proguard/
 # Eclipse prefs files
 .prefs
 
+# .idea directories
+*.idea/
+
+# IML files
+*.iml
+
  # Mac files
 .DS_Store
 
 # Emacs backup files
 *.*~
+
+# Zip files
+*.zip
+
+# Submission directories
+*Submit/
